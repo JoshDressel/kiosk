@@ -1,1 +1,1 @@
-For a Quick and Dirty Linux Kiosk
+For a Quick & Dirty Linux Kiosk check out the wiki.
